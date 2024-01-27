@@ -7,5 +7,4 @@ Push_swap is a project at 42 School that involves sorting a stack of integers us
 The radix algorithm is a sorting technique based on the digits of numbers. In the context of Push_swap, this algorithm can be used to efficiently rearrange the stack. It works by performing multiple passes on the most significant digits, using stack manipulation operations to sort the elements.
 
 ## Tests
-$ ./push_swap 3 1 4 2\n
-Push_swap result: ra pb ra pa
+$ ./push_swap 3 1 4 2
