@@ -8,7 +8,4 @@ The radix algorithm is a sorting technique based on the digits of numbers. In th
 
 ## Tests
 $ ./push_swap 3 1 4 2
-ra
-pb
-ra
-pa
+Push_swap result: ra pb ra pa
